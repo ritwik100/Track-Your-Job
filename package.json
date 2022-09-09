@@ -13,7 +13,7 @@
     "start": "concurrently --kill-others-on-fail \" npm run server\" \" npm run client\""
   },
   "keywords": [],
-  "author": "",
+  "author": "Ritwik",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^7.3.0",
